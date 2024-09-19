@@ -1,3 +1,11 @@
+# =========================================
+# .gitignore Explicado em Português e Inglês
+# =========================================
+
+# -----------------------------------------
+# Português
+# -----------------------------------------
+
 # Ignorar arquivos e diretórios de ambientes virtuais
 venv/
 .env/
@@ -36,6 +44,9 @@ data/
 # Manter o seu arquivo notebook ignorado
 Previsão de extração de ouro puro do minério de ouro.ipynb
 
+# -----------------------------------------
+# English
+# -----------------------------------------
 
 # Ignore virtual environment directories and files
 venv/
@@ -74,3 +85,5 @@ data/
 
 # Keep your notebook file ignored
 Previsão de extração de ouro puro do minério de ouro.ipynb
+
+
