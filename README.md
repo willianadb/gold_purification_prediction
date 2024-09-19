@@ -1,5 +1,7 @@
 # Previsão da Extração de Ouro / Gold Purification Prediction
 
+![GitHub](https://img.shields.io/github/license/willianadb/gold_purification_prediction)
+
 ## Português
 
 ### Introdução
