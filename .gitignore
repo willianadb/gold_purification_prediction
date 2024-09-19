@@ -1,1 +1,76 @@
+# Ignorar arquivos e diretórios de ambientes virtuais
+venv/
+.env/
+
+# Ignorar arquivos gerados pelo Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar caches do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração do editor de código (como VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignorar arquivos de pacotes pip instalados manualmente
+*.egg-info/
+.eggs/
+
+# Ignorar pacotes de build
+dist/
+build/
+
+# Ignorar arquivos grandes de saída ou diretórios de dados que não devem estar no Git
+data/
+*.csv
+*.xlsx
+
+# Manter o seu arquivo notebook ignorado
+Previsão de extração de ouro puro do minério de ouro.ipynb
+
+
+# Ignore virtual environment directories and files
+venv/
+.env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore log files
+*.log
+
+# Ignore OS-generated temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore editor configuration files (such as VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignore pip-installed package files
+*.egg-info/
+.eggs/
+
+# Ignore build packages
+dist/
+build/
+
+# Ignore large output files or data directories that shouldn’t be in Git
+data/
+*.csv
+*.xlsx
+
+# Keep your notebook file ignored
 Previsão de extração de ouro puro do minério de ouro.ipynb
